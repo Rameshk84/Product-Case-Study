@@ -1,4 +1,7 @@
 **📝 Product Case Study Framework ** <br>
+
+![image](https://github.com/user-attachments/assets/3bf0d69d-e864-4e10-8568-25b9797af2dc)
+
 Welcome to my Product Case Study Framework! This guide helps you effectively solve product-related case studies, especially during interviews. 🚀
 <br>
 **🌟 Overview** <br>
