@@ -1,6 +1,7 @@
 **📝 Product Case Study Framework ** <br>
 
-![image](https://github.com/user-attachments/assets/27fb2d48-9eb5-4d02-a55f-d61760d44d61)
+![Creative-Problem-Solving-Process](https://github.com/user-attachments/assets/4e4bfbea-f687-44c4-9d10-13a008b3157d)
+
 
 Welcome to my Product Case Study Framework! This guide helps you effectively solve product-related case studies, especially during interviews. 🚀
 <br>
